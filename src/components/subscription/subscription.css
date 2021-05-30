@@ -65,6 +65,7 @@ input::placeholder {
 
     input, #submit {
         width: 310px;
+        margin-right: 0;
     }
     
     #submit {
@@ -76,5 +77,11 @@ input::placeholder {
         position: static;
         margin-left: 2.3rem;
         margin-bottom: 1.3rem;
+    }
+}
+
+@media (max-width: 335px) {
+    input, #submit {
+        width: 270px;
     }
 }

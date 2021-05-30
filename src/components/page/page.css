@@ -117,3 +117,15 @@ p {
         margin-bottom: 5rem;
     }
 }
+
+@media (max-width: 335px) {
+
+    h1 {
+        font-size: 1.1rem;
+    }
+    
+    #dashboard {
+        width: 100%;
+    }
+
+}
