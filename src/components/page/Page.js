@@ -16,9 +16,9 @@ export const Page = () => {
             <img src={dashboard} alt="Dashboard" id="dashboard" />
 
             <div id="social-media">
-                <button><i class="fab fa-facebook-f"></i></button>
-                <button><i class="fab fa-twitter"></i></button>
-                <button><i class="fab fa-instagram"></i></button>
+                <button><i className="fab fa-facebook-f"></i></button>
+                <button><i className="fab fa-twitter"></i></button>
+                <button><i className="fab fa-instagram"></i></button>
             </div>
             <p>&copy; Copyright Ping. All rights reserved.</p>
         </main>

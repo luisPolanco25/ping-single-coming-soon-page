@@ -40,3 +40,13 @@ input::placeholder {
 #submit:hover {
     filter: brightness(115%);
 }
+
+#error-text {
+    position: absolute;
+    color: hsl(354, 100%, 66%);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 0.58rem;
+    margin-top: 0.3rem;
+    margin-left: 1.15rem;
+}
