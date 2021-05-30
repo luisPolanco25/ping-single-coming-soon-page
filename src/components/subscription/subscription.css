@@ -60,3 +60,21 @@ input::placeholder {
         width: 160px;
     }
 }
+
+@media (max-width: 600px) {
+
+    input, #submit {
+        width: 310px;
+    }
+    
+    #submit {
+        display: block;
+        margin-top: 0.6rem;
+    }
+
+    #error-text {
+        position: static;
+        margin-left: 2.3rem;
+        margin-bottom: 1.3rem;
+    }
+}
