@@ -50,3 +50,13 @@ input::placeholder {
     margin-top: 0.3rem;
     margin-left: 1.15rem;
 }
+
+@media (max-width: 800px) {
+    input {
+        width: 380px;
+    }
+    
+    #submit {
+        width: 160px;
+    }
+}

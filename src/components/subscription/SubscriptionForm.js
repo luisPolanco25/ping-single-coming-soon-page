@@ -23,7 +23,6 @@ export const SubscriptionForm = () => {
             setIsEmailCorrect(false);
             emailRef.current.focus();
         } else {
-            emailRef.current.value = '';
             return Swal.fire('Subscribed', 'From now on, you will receive our notifications', 'success');
         }
     }

@@ -83,3 +83,14 @@ p {
     font-weight: 300;
     font-size: 0.65rem;
 }
+
+@media (max-width: 800px) {
+    main {
+        width: 600px;
+        margin-left: -300px;
+    }
+
+    #dashboard {
+        width: 590px;
+    }
+}
