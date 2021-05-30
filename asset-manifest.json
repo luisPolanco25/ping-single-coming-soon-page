@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ping-single-coming-soon-page/static/css/main.5792a24f.chunk.css",
+    "main.js": "/ping-single-coming-soon-page/static/js/main.a549bb24.chunk.js",
+    "main.js.map": "/ping-single-coming-soon-page/static/js/main.a549bb24.chunk.js.map",
+    "runtime-main.js": "/ping-single-coming-soon-page/static/js/runtime-main.4ab6e0ca.js",
+    "runtime-main.js.map": "/ping-single-coming-soon-page/static/js/runtime-main.4ab6e0ca.js.map",
+    "static/js/2.c36114de.chunk.js": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js",
+    "static/js/2.c36114de.chunk.js.map": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js.map",
+    "index.html": "/ping-single-coming-soon-page/index.html",
+    "precache-manifest.ea504ee3edd73cfd3c4ca458df9ce9d5.js": "/ping-single-coming-soon-page/precache-manifest.ea504ee3edd73cfd3c4ca458df9ce9d5.js",
+    "service-worker.js": "/ping-single-coming-soon-page/service-worker.js",
+    "static/css/main.5792a24f.chunk.css.map": "/ping-single-coming-soon-page/static/css/main.5792a24f.chunk.css.map",
+    "static/js/2.c36114de.chunk.js.LICENSE.txt": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js.LICENSE.txt",
+    "static/media/illustration-dashboard.png": "/ping-single-coming-soon-page/static/media/illustration-dashboard.92dd5c8f.png",
+    "static/media/logo.svg": "/ping-single-coming-soon-page/static/media/logo.e392d534.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab6e0ca.js",
+    "static/js/2.c36114de.chunk.js",
+    "static/css/main.5792a24f.chunk.css",
+    "static/js/main.a549bb24.chunk.js"
+  ]
+}
