@@ -1,0 +1,42 @@
+form {
+    margin-bottom: 3.5rem;
+}
+
+input {
+    border: 1px solid hsl(223, 100%, 88%);
+    width: 400px;
+    padding: 0.78rem;
+    border-radius: 30px;
+    outline: none;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 0.72rem;
+    color: hsl(209, 33%, 12%);
+    font-weight: 300;
+    margin-right: 0.7rem;
+    padding-left: 1.3rem;
+}
+
+input::placeholder {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 0.72rem;
+    color: hsl(223, 100%, 88%);
+}
+
+#submit {
+    width: 180px;
+    padding: 0.72rem;
+    border-radius: 30px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 0.8rem;
+    color: white;
+    background-color: hsl(223, 87%, 63%);
+    outline: none;
+    border: 1px solid hsl(223, 87%, 63%);
+    cursor: pointer;
+    box-shadow: -3px 5px 8px hsl(223, 100%, 88%);
+    transition: all 100ms ease-in;
+}
+
+#submit:hover {
+    filter: brightness(115%);
+}

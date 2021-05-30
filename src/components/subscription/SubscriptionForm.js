@@ -3,8 +3,14 @@ import './subscription.css';
 
 export const SubscriptionForm = () => {
     return (
-        <div>
-            <h1>Subscription</h1>
-        </div>
+        <form>
+            <input 
+                type="text" 
+                placeholder="Your email address..."
+                aria-label="Email address"
+            />
+            
+            <button type="submit" id="submit">Notify me</button>
+        </form>
     )
 }
