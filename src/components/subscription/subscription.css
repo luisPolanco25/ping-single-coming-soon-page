@@ -19,6 +19,7 @@ input {
 input::placeholder {
     font-family: 'Libre Franklin', sans-serif;
     font-size: 0.72rem;
+    font-weight: 400;
     color: hsl(223, 100%, 88%);
 }
 
