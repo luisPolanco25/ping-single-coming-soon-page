@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "329933406662d3b0a28565357cf2270e",
+    "revision": "ad476a336d0770e766bf37723725b95c",
     "url": "/ping-single-coming-soon-page/index.html"
   },
   {
-    "revision": "5abd8c4e048bf216f943",
-    "url": "/ping-single-coming-soon-page/static/css/main.5792a24f.chunk.css"
+    "revision": "5ff33b6b24f91cafe681",
+    "url": "/ping-single-coming-soon-page/static/css/main.c54a6553.chunk.css"
   },
   {
     "revision": "d64428e2a19b901ddba4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5abd8c4e048bf216f943",
+    "revision": "5ff33b6b24f91cafe681",
     "url": "/ping-single-coming-soon-page/static/js/main.dddef56d.chunk.js"
   },
   {

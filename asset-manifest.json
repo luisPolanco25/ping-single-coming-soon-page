@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ping-single-coming-soon-page/static/css/main.5792a24f.chunk.css",
+    "main.css": "/ping-single-coming-soon-page/static/css/main.c54a6553.chunk.css",
     "main.js": "/ping-single-coming-soon-page/static/js/main.dddef56d.chunk.js",
     "main.js.map": "/ping-single-coming-soon-page/static/js/main.dddef56d.chunk.js.map",
     "runtime-main.js": "/ping-single-coming-soon-page/static/js/runtime-main.4ab6e0ca.js",
@@ -8,9 +8,9 @@
     "static/js/2.c36114de.chunk.js": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js",
     "static/js/2.c36114de.chunk.js.map": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js.map",
     "index.html": "/ping-single-coming-soon-page/index.html",
-    "precache-manifest.02af4aef44d913b43572c815f17f1e9b.js": "/ping-single-coming-soon-page/precache-manifest.02af4aef44d913b43572c815f17f1e9b.js",
+    "precache-manifest.ef69f0840d4138b53c572399cfa12363.js": "/ping-single-coming-soon-page/precache-manifest.ef69f0840d4138b53c572399cfa12363.js",
     "service-worker.js": "/ping-single-coming-soon-page/service-worker.js",
-    "static/css/main.5792a24f.chunk.css.map": "/ping-single-coming-soon-page/static/css/main.5792a24f.chunk.css.map",
+    "static/css/main.c54a6553.chunk.css.map": "/ping-single-coming-soon-page/static/css/main.c54a6553.chunk.css.map",
     "static/js/2.c36114de.chunk.js.LICENSE.txt": "/ping-single-coming-soon-page/static/js/2.c36114de.chunk.js.LICENSE.txt",
     "static/media/illustration-dashboard.png": "/ping-single-coming-soon-page/static/media/illustration-dashboard.92dd5c8f.png",
     "static/media/logo.svg": "/ping-single-coming-soon-page/static/media/logo.e392d534.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ab6e0ca.js",
     "static/js/2.c36114de.chunk.js",
-    "static/css/main.5792a24f.chunk.css",
+    "static/css/main.c54a6553.chunk.css",
     "static/js/main.dddef56d.chunk.js"
   ]
 }
