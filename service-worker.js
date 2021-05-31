@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ping-single-coming-soon-page/precache-manifest.ef69f0840d4138b53c572399cfa12363.js"
+  "/ping-single-coming-soon-page/precache-manifest.1d5e75a25a44644efc5a30d8df4c8711.js"
 );
 
 self.addEventListener('message', (event) => {
